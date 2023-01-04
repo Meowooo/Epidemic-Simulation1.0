@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{BF30B4AD-3906-1C44-31E0-4CB9E27FB380}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/StatisPanel.cs">
+    <Files>
+      <File FileName="Assets/Scripts/UIController.cs" Line="15" Column="1" />
+      <File FileName="Assets/Scripts/CreateGuys.cs" Line="59" Column="54" />
+      <File FileName="Assets/Scripts/StatisPanel.cs" Line="55" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Epidemic Prediction" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Pixel Font - Tripfive" expanded="True" />
+              <Node name="Scripts" expanded="True">
+                <Node name="StatisPanel.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="41f5dfb7-dabc-4836-aab9-1af55481d9a8" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
